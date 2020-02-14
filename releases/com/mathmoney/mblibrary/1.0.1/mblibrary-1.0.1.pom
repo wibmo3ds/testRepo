@@ -25,11 +25,7 @@
     <url>https://github.com/keyur9779/testRepo</url>
   </scm>
   <dependencies>
-    <dependency>
-      <groupId/>
-      <artifactId>unspecified</artifactId>
-      <version/>
-    </dependency>
+    
     <dependency>
       <groupId>androidx.appcompat</groupId>
       <artifactId>appcompat</artifactId>
